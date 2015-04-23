@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1429138907 source:c:\users\jneri\documents\graficas\semana 6\tarea_pong\main.cpp
+	<windows.h>
+	<iostream>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<utility>
+	<mmsystem.h>
+
+976692172 c:\program files (x86)\codeblocks\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
